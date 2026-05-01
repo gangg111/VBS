@@ -80,10 +80,9 @@ This tool is particularly useful for **gaming handheld devices** such as the ASU
 ## How to install
 
 1. Go to [Releases](https://github.com/gangg111/VBS/releases)
-2. Download the latest `VBS_GUI.exe`
+2. Download the latest `VBS.zip`
 3. Run it — that's it
 
-No Python, no dependencies, no installer.
 
 ---
 
