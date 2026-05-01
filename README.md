@@ -1,7 +1,7 @@
 # VBS 1.0 — Virtualization-based Security Manager
 
 > A simple, clean GUI tool for managing Windows security features that can affect gaming performance and driver compatibility.
-> Especially useful for **gaming handhelds** like ASUS ROG Ally, Lenovo Legion Go or MSI Claw — where every frame counts.
+> Especially useful for **gaming handhelds** like ASUS ROG Ally, Lenovo Legion Go or MSI Claw — where every frame counts and there is no physical keyboard to run command-line tools.
 
 ---
 
