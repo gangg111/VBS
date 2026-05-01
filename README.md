@@ -7,7 +7,7 @@
 ## Screenshots
 
 <img src="screenshot_eng.jpg" width="600" alt="VBS 1.0 – English interface"/>
-<img src="screenshot.jpg" width="600" alt="VBS 1.0 – Polish interface"/>
+<img src="screenshot_pl.jpg" width="600" alt="VBS 1.0 – Polish interface"/>
 
 ---
 
