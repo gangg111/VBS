@@ -77,10 +77,9 @@ Modern versions of Windows 10 and 11 come with a set of security features based 
 ## How to install
 
 1. Go to [Releases](https://github.com/gangg111/VBS/releases)
-2. Download the latest `VBS_GUI.exe`
+2. Download the latest `VBS.exe`
 3. Run it — that's it
 
-No Python, no dependencies, no installer.
 
 ---
 
