@@ -1,6 +1,7 @@
 # VBS 1.0 — Virtualization-based Security Manager
 
 > A simple, clean GUI tool for managing Windows security features that can affect gaming performance and driver compatibility.
+> Especially useful for **gaming handhelds** like ASUS ROG Ally, Lenovo Legion Go or MSI Claw — where every frame counts.
 
 ---
 
@@ -20,6 +21,8 @@ Modern versions of Windows 10 and 11 come with a set of security features based 
 - **Conflict with anti-cheat systems** — some games (e.g. Valorant, FACEIT) have problems running alongside these features
 
 **VBS 1.0** gives you a straightforward graphical interface to view the current status of these features and disable or restore them — no command line needed.
+
+This tool is particularly useful for **gaming handheld devices** such as the ASUS ROG Ally, Lenovo Legion Go or MSI Claw. On these devices VBS and HVCI are often enabled by default and can noticeably reduce gaming performance — disabling them is one of the first tweaks most handheld owners do.
 
 ---
 
